@@ -7,3 +7,6 @@ https://www.excelcampus.com/
 
 Assignment 1- 
 https://docs.google.com/spreadsheets/d/16MObeGxwaEpir6ik2KEEaC9jpuYtCD5Xrp-FclZ1IFc/edit#gid=0
+
+My SQL power BI connector
+https://dev.mysql.com/downloads/connector/net/

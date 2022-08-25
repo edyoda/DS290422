@@ -1,0 +1,3 @@
+resource -
+
+https://www.microsoftpressstore.com/store/analyzing-data-with-power-bi-and-power-pivot-for-excel-9781509302765
